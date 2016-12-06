@@ -22,7 +22,7 @@ var defaultOptions = {
   },
 
   global: {
-    timezoneOffset: new Date().getTimezoneOffset()
+    timezoneOffset: 0
   },
 
   credits: {
